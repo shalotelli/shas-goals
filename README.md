@@ -14,7 +14,7 @@ An outline of my personal goals are listed below. These tasks are broken down in
   - [ ] Take an online course
   - [ ] Apply my skills to at least 3 tasks that go in to production
 - [ ] Further mobile app development skills
-  - [ ] Further my Cordova knowledge
+  - [x] Further my Cordova knowledge
   - [ ] Become familiar with at least 2 javascript mobile frameworks
   - [ ] Further Objective-C development knowledge
 - [ ] Start advocating unit testing again
