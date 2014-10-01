@@ -18,8 +18,7 @@ An outline of my personal goals are listed below. These tasks are broken down in
   - [ ] Become familiar with at least 2 javascript mobile frameworks
   - [ ] Further Objective-C development knowledge
 - [ ] Start advocating unit testing again
-  - [ ] Lead by example
-  - [ ] Use down time to start uit testing O&M core module
+  - [ ] Use down time to start unit testing O&M core module
 - [ ] Continue development of backend skills
   - [x] Create a database driven project in NodeJS that exposes a consumable API
 - [ ] Get more grunt in my life
