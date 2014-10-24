@@ -22,5 +22,5 @@ An outline of my personal goals are listed below. These tasks are broken down in
 - [ ] Continue development of backend skills
   - [x] Create a database driven project in NodeJS that exposes a consumable API
 - [ ] Get more grunt in my life
-  - [ ] Try and implement automated script and style additions in O&M index file
+  - [x] Try and implement automated script and style additions in O&M index file
   - [ ] Break out dev & production tasks to make debugging easier
